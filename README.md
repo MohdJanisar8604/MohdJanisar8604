@@ -9,7 +9,7 @@
               . Analyst 
               . Reasearch Assistant
                
-       -💻These are my Skills:-
+        💻These are my Skills:-
            
            ⚡Technical Skills: 
                       . Languages             :   C, C++, Java, JavaScript 
@@ -26,7 +26,7 @@
                       . Interpersonal Skills  :    Communication/Leadership/ Public Speaking
 
 
-      -✨ Hobbies: 
+      ✨ Hobbies: 
               Reading Books, 
               Playing Football.
               
