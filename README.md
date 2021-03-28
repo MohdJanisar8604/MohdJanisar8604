@@ -30,23 +30,35 @@
               Reading Books, 
               Playing Football.
               
-      - 📫 How to reach me ...
+  - 📫 How to reach me ...
+       
        . E-mail id    - mohdjanisar8604@gmail.com
+       
        . Potfolio     - https://mohdjanisar8604.github.io/mohdjanisar.io/
+       
+       
        . LinkedIN     - https://www.linkedin.com/in/mohd-janisar-705b921a8/
+       
        . Github       - https://github.com/MohdJanisar8604
-       . Instagram    - instagram.com/sufiyan.janisar/?hl=en
+       
+       . Instagram    - https://www.instagram.com/sufiyan.janisar/?hl=en
+       
        . Quora        - https://www.quora.com/profile/Mohd-Janisar
+       
        . Medium       - https://mohdjanisar8604.medium.com/
+       
        . HackerRank   - https://www.hackerrank.com/janisar_cpcoder
      
      
       ☀ For all kind of queries related to college Students . 
+       
        Subscribe My Youtube Channel:
+      
       . Youtube      - https://www.youtube.com/channel/UCtwq5QD9aJl7uAggzaMqVXw
       
       
       -🎫 If you have any opportunity for me please reach to me:
+      
       . Resume- https://drive.google.com/file/d/1EczmmLOA_ICyqDxkOf35-Cb-9rttelDt/view?usp=drivesdk
 
 
