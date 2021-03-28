@@ -1,6 +1,6 @@
-     - 👋 Hi, I’m Mohd. Janisar
-     - 🎓 I’m currently pursuing B.Tech IT from Chandigarh Engineering Colleges, Landran
-     - 👀 I’m interested in -
+   👋 Hi, I’m Mohd. Janisar
+   🎓 I’m currently pursuing B.Tech IT from Chandigarh Engineering Colleges, Landran
+   👀 I’m interested in -
           
           Job role-
               . Software Engineering 
