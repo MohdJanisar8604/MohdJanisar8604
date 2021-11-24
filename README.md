@@ -12,8 +12,8 @@
         💻These are my Skills:-
            
            ⚡Technical Skills: 
-                      . Languages             :   C, C++, Java, JavaScript 
-                      . IT Constructs         :   DS and Algorithms, AWS, OOPS, OS and DBMS 
+                      . Languages             :   C++, Java, JavaScript 
+                      . IT Constructs         :   DS and Algorithms, AWS, OOPS and DBMS 
                       . Frameworks            :   Spring boot, Reactjs, Express
                       . DB languages          :   SQL, Mongo dB
                       . Web Tools             :   HTML, CSS, Bootstrap
@@ -59,6 +59,6 @@
       
       -🎫 If you have any opportunity for me please reach to me:
       
-      . Resume- https://drive.google.com/file/d/1EczmmLOA_ICyqDxkOf35-Cb-9rttelDt/view?usp=drivesdk
+      . Resume- https://drive.google.com/file/d/1PbaE1dRT2vCKrOD8notQNjlOHagHxEDc/view
 
 
